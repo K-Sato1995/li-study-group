@@ -1,3 +1,5 @@
+![web-front-101](https://user-images.githubusercontent.com/32632542/180588580-9b032e38-a94e-4614-80cd-38af7a948439.jpg)
+
 ## 概要
 
 Web開発のフロントエンド開発の外観を知る。
