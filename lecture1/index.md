@@ -29,6 +29,10 @@
 
 ### 参考資料
 
+- [Gitの公式](https://git-scm.com/)
+- [GitHubの公式](https://github.com/)
+- [SUBVERSIONの公式](https://subversion.apache.org/)
+
 ## package managers(パッケージマネージャー)
 
 ### 参考資料
